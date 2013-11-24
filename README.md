@@ -1,4 +1,4 @@
 PigLatin
 ========
 
-Pig Latin app for android
+A Pig Latin app for android
